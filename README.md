@@ -1,7 +1,6 @@
 # Carlos Fontes
 
 **Programador Júnior**  
-C/C++ • SQL • Linux • Redes • Arquitectura de Computadores  
 Formação Profissional em Programação de Informática – IEFP Braga (2025–2026)  
 À procura de estágio curricular 
 
