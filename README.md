@@ -30,7 +30,7 @@ Formação Profissional em Programação de Informática – IEFP Braga (2025–
 
 ### GitHub Stats
 
-![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlosfontesdev&theme=radical&show_icons=true&hide_border=true&border_radius=10&rank_icon=github&cache_seconds=1)
+![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlosfontesdev&theme=radical&v=2)
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosfontesdev&theme=radical&hide_border=true&border_radius=10&layout=compact&langs_count=8&cache_seconds=1)
 
