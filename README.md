@@ -28,6 +28,6 @@ Formação Profissional em Programação de Informática – IEFP Braga (2025–
 [Descarregar PDF](./Carlos_Fontes_CV_Programador_2025.pdf)
 
 ### GitHub Stats
-![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlosfontesdev&theme=dracula&show_icons=true&hide_border=true&border_radius=10)
+![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlosfontesdev&theme=radical&show_icons=true&hide_border=true&border_radius=10&cache_seconds=1800)
 
 *Aberto a estágios em Braga, Porto, remoto ou híbrido*
