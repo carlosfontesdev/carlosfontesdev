@@ -4,14 +4,13 @@
 Formação Profissional em Programação de Informática – IEFP Braga (2025–2026)  
 À procura de estágio curricular
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=visual%20basic&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+### 🛠️ Competências Técnicas
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,cs,cpp,c,dotnet,sql,linux,git,visualstudio,vscode" />
+  </a>
+</p>
 
 ### Competências técnicas
 - Programação C/C++ (fundamentos + avançado)
@@ -32,16 +31,10 @@ Formação Profissional em Programação de Informática – IEFP Braga (2025–
 ### Currículo atualizado
 [Descarregar PDF](./Carlos_Fontes_CV_Programador_2025.pdf)
 
-### GitHub Stats
+### 📊 Estatísticas do GitHub
 
-### GitHub Stats
+![Stats de Carlos](https://github-readme-stats.vercel.app/api?username=carlosfontesdev&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlosfontesdev&show_icons=true&theme=radical&hide_border=false" alt="Carlos's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosfontesdev&layout=compact&theme=radical&hide_border=false" alt="Top Linguagens" />
-</p>
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosfontesdev&layout=compact&theme=radical)
 
 *Aberto a estágios em Braga, Porto, remoto ou híbrido*
