@@ -34,12 +34,14 @@ Formação Profissional em Programação de Informática – IEFP Braga (2025–
 
 ### GitHub Stats
 
+### GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlosfontesdev&theme=radical&show_icons=true&hide_border=true&border_radius=10&rank_icon=github" alt="Carlos's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=carlosfontesdev&show_icons=true&theme=radical&hide_border=false" alt="Carlos's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosfontesdev&theme=radical&hide_border=true&border_radius=10&layout=compact&langs_count=8" alt="Top Linguagens"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosfontesdev&layout=compact&theme=radical&hide_border=false" alt="Top Linguagens" />
 </p>
 
 *Aberto a estágios em Braga, Porto, remoto ou híbrido*
