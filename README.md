@@ -10,9 +10,13 @@ Formação Profissional em Programação de Informática – IEFP Braga (2025–
 ![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=visual%20basic&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Competências técnicas
 - Programação C/C++ (fundamentos + avançado)
+- Programação Python
+- Programação Java
 - Algoritmos e lógica de programação
 - Bases de dados SQL + administração
 - Redes locais e conexões de rede
