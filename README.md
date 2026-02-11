@@ -3,7 +3,7 @@
 **Programador Júnior**  
 Formação Profissional em Programação de Informática – IEFP Braga (2025–2026)  
 À procura de estágio curricular
-
+![Profile views](https://komarev.com/ghpvc/?username=carlosfontesdev&color=blue)
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
@@ -40,8 +40,8 @@ Formação Profissional em Programação de Informática – IEFP Braga (2025–
 
 ### 📊 Estatísticas do GitHub
 
-![Stats de Carlos](https://github-readme-stats.vercel.app/api?username=carlosfontesdev&show_icons=true&theme=radical)
+!Carlos Fontes' GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosfontesdev&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark)
 
 *Aberto a estágios em Braga, Porto, remoto ou híbrido*
