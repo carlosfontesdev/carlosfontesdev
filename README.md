@@ -23,6 +23,8 @@ Formação Profissional em Programação de Informática – IEFP Braga (2025–
 ### Competências técnicas
 - Programação C/C++ (fundamentos + avançado)
 - Programação Python
+- Programação C#
+- ASP.NET Core
 - Programação Java
 - Algoritmos e lógica de programação
 - Bases de dados SQL + administração
